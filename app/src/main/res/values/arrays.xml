@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="metrics">
+        <item>None</item>
+        <item>Alaex</item>
+        <item>Nik</item>
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Pikachu</item>
+
+    </string-array>
+</resources>
+
+

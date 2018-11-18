@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Keys for remote access</string>
+
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+
+    <string name="sendkey">send Key</string>
+    <string name="getKey">get Key</string>
+    <string name="using_key">Using Key</string>
+</resources>
